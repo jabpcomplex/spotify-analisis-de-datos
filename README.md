@@ -14,5 +14,5 @@ Explorar la información de Spotify recopila cuando usamos su aplicación para o
 
 ## Resultado:
 
-![Imagen](https://raw.githubusercontent.com/jabp/spotify-analisis-de-datos/blob/main/spotify_year.png)
+![Screenshot](spotify_year.png)
 
