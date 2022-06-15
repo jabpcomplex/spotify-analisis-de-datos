@@ -1,0 +1,36 @@
+{
+  "tracks": [
+    {
+      "artist": "Adan Jodorowsky",
+      "album": "Esencia Solar",
+      "track": "Vivir Con Valor",
+      "uri": "spotify:track:0AkEp0MzBI3lmv3oYAHeMF"
+    },
+    {
+      "artist": "Akil Ammar",
+      "album": "Deja Vú",
+      "track": "Solo En Mi Ciudad",
+      "uri": "spotify:track:7r1pm7m7ZncGbWzatHt6ez"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "track": "R U Mine?",
+      "uri": "spotify:track:2AT8iROs4FQueDv2c8q2KE"
+    }
+  ],
+  "albums": [
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
