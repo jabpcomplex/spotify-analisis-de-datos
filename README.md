@@ -1,11 +1,11 @@
 # Analísis de datos con tu historial de Spotify
 
 
-<p align="center">
-  <img src="https://es.wikipedia.org/wiki/Pandas_%28software%29" width="350" title="hover text">
-</p>
+<a align="center">
+  <img src="https://th.bing.com/th/id/OIP.DID7M5LN6--mf7sXAKVZ-gHaER?w=287&h=180&c=7&r=0&o=5&pid=1.7" width="350" title="hover text">
+</a>
 
-En este repositorio encontrarasla forma de sacarle provecho a tus historial de reproducción de Spotify (DATOS) y graficarlos al estilo de las gráficas de Github.
+En este repositorio encontraras la forma de sacar provecho a tus historial de reproducción de Spotify (TUS DATOS) y podrás graficarlos al estilo de las gráficas de Github.
 
 Para obtener tus datos de Spotify tendrás que dirigirte a esta dirección [Spotify](https://www.spotify.com/) y solicitar la descarga de tus datos.
 El proceso puede tardar varios días. La descarga de mis datos demoró una semana. Te enviarán un correo avisandote que ya los puedes descargar.
