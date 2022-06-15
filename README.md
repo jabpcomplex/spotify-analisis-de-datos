@@ -1,8 +1,8 @@
 # Analísis de datos con tu historial de Spotify
 
 
-<a align="center">
-  <img src="https://asociacionaepi.es/wp-content/uploads/2020/05/pandas.png" width="400" height="350" title="hover text">
+<a align="rigth">
+  <img src="https://asociacionaepi.es/wp-content/uploads/2020/05/pandas.png" width="500" height="350" title="hover text">
 </a>
 
 En este repositorio encontraras la forma de sacar provecho a tus historial de reproducción de Spotify (TUS DATOS) y podrás graficarlos al estilo de las gráficas de Github.
