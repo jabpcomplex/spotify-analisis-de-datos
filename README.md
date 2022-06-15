@@ -2,7 +2,7 @@
 
 
 <a align="center">
-  <img src="https://th.bing.com/th/id/OIP.DID7M5LN6--mf7sXAKVZ-gHaER?w=287&h=180&c=7&r=0&o=5&pid=1.7" width="350" title="hover text">
+  <img src="https://asociacionaepi.es/wp-content/uploads/2020/05/pandas.png" width="400" height="350" title="hover text">
 </a>
 
 En este repositorio encontraras la forma de sacar provecho a tus historial de reproducción de Spotify (TUS DATOS) y podrás graficarlos al estilo de las gráficas de Github.
