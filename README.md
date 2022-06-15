@@ -12,7 +12,7 @@ Una vez descargados podrás comenzar a explorar tu información.
 
 Explorar la información de Spotify recopila cuando usamos su aplicación para obtener una gráfica que nos dará información sobre que diás de la semana hemos utilizado más la aplicación.
 
-## Resultado
+## Resultado:
 
-
+![Imagen](https://raw.githubusercontent.com/jabp/spotify-analisis-de-datos/blob/main/spotify_year.png)
 
